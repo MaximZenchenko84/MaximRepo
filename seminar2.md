@@ -16,6 +16,16 @@
 
 ## Таблицы
 
+First Header | Second Header
+------------- | -------------
+Content Cell | Content Cell
+Content Cell | Content Cell
+Для красоты можно и по бокам линии нарисовать:
+
+| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
 
 
 
@@ -25,6 +35,6 @@
 **Чтобы добавить изображения, воспользуйтесь следующей командой:**
 
 ```
-![Шахматный турнир](https://муром24.рф/uploads/posts/2023-05/1685428011_izobrazhenie_2023-05-30_092542485.png)
+![Шахматный турнир](https://images.unsplash.com/photo-1679941030983-a42a69ff0879?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hlc3MlMjB0b3VybmFtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60)
 
-![криншот обучения](scrgit.png)
+![Скриншот обучения](scrgit.png)
