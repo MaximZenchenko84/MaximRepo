@@ -6,8 +6,12 @@
 
 ## Заголовки
 
-
-
+# First level header
+## Second level header
+### Third level header
+#### Fourth level header
+##### Fifth level header
+###### Sixth level header
 
 ## Исходный код
 
@@ -19,7 +23,7 @@
 First Header | Second Header
 ------------- | -------------
 Content Cell | Content Cell
-Content Cell | Content Cell
+
 Для красоты можно и по бокам линии нарисовать:
 
 | First Header | Second Header |
@@ -38,3 +42,4 @@ Content Cell | Content Cell
 ![Шахматный турнир](https://images.unsplash.com/photo-1679941030983-a42a69ff0879?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hlc3MlMjB0b3VybmFtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60)
 
 ![Скриншот обучения](scrgit.png)
+`````
