@@ -16,7 +16,7 @@
 ## Исходный код
 
 numb_a = input("Enter a number from 1 to 99: ")
-if (numb_a >= 1) and (numb_a =< 99):
+if ((numb_a >= 1) and (numb_a =< 99)):
     print("Ok")
 else:
     print("Incorrect input")
